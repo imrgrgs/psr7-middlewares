@@ -19,7 +19,7 @@
 	],
 	"support" : {
 		"email" : "iomargorges@hotmail.com",
-		"issues" : "https://github.com/imrgrgs/psr7-middlewares/issues"
+		"issues" : "https://github.com/bit-io/psr7-middlewares/issues"
 	},
 	"require" : {
 		"php" : ">=5.5.0"
