@@ -1,10 +1,5 @@
 ## psr7-middlewares
 
-[![Build Status](https://travis-ci.org/imrgrgs/psr7-middlewares.svg)](https://travis-ci.org/imrgrgs/psr7-middlewares)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/imrgrgs/psr7-middlewares/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/imrgrgs/psr7-middlewares/?branch=master)
-
-[![SensioLabsInsight](https://insight.sensiolabs.com/projects/0d91152f-1308-4709-b834-ea048afee7da/big.png)](https://insight.sensiolabs.com/projects/0d91152f-1308-4709-b834-ea048afee7da)
-
 Collection of [PSR-7](http://www.php-fig.org/psr/psr-7/) middlewares.
 
 
