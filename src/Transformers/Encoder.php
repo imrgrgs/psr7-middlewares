@@ -2,6 +2,7 @@
 
 namespace Psr7Middlewares\Transformers;
 
+use Psr\Http\Message\ResponseInterface;
 use Psr\Http\Message\StreamInterface;
 
 /**
