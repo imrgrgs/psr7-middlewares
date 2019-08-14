@@ -1,5 +1,5 @@
 {
-	"name" : "bit-io/psr7-middlewares",
+	"name" : "imrgrgs/psr7-middlewares",
 	"type" : "library",
 	"description" : "Collection of HTTP middlewares compatible with PSR-7",
 	"keywords" : [
@@ -8,7 +8,7 @@
 		"middlewares",
 		"psr-messages"
 	],
-	"homepage" : "https://github.com/bit-io/psr7-middlewares",
+	"homepage" : "https://github.com/imrgrgs/psr7-middlewares",
 	"license" : "MIT",
 	"authors" : [{
 			"name" : "Iomar Gorges",
@@ -19,7 +19,7 @@
 	],
 	"support" : {
 		"email" : "iomargorges@hotmail.com",
-		"issues" : "https://github.com/bit-io/psr7-middlewares/issues"
+		"issues" : "https://github.com/imrgrgs/psr7-middlewares/issues"
 	},
 	"require" : {
 		"php" : ">=5.5.0"
