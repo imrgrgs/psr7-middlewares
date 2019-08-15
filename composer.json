@@ -59,5 +59,6 @@
 	},
 	"scripts" : {
 		"cs-fix" : "php-cs-fixer fix . --fixers=-psr0"
-	}
+	},
+	"minimum-stability" : "dev"
 }
